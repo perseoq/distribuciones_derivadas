@@ -44,8 +44,8 @@ Cada guía incluye:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/linux-derivadas-manuales.git
-   cd linux-derivadas-manuales
+   git clone https://github.com/perseoq/distribuciones_derivadas.git
+   cd distribuciones_derivadas
    ```
 
 2. Elige tu distribución base:
