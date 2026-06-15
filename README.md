@@ -12,9 +12,9 @@ Cada manual cubre métodos prácticos (herramientas gráficas y manuales) para e
 
 | Archivo | Sistema base | Herramientas principales | Enfoque |
 |---------|--------------|--------------------------|---------|
-| `ubuntu.md` | Ubuntu 22.04/24.04 LTS | Cubic, chroot manual | Gráfico (Cubic) y manual con chroot |
-| `archlinux.md` | Arch Linux | `archiso`, perfil personalizado | Control total mediante perfil de construcción |
-| `rockylinux.md` | Rocky Linux 9 | `livecd-creator`, `mkksiso`, chroot | Kickstart y manipulación de ISO oficial |
+| [`ubuntu.md`](manuales/ubuntu.md) | Ubuntu 22.04/24.04 LTS | Cubic, chroot manual | Gráfico (Cubic) y manual con chroot |
+| [`archlinux.md`](manuales/archlinux.md) | Arch Linux | `archiso`, perfil personalizado | Control total mediante perfil de construcción |
+| [`rockylinux.md`](manuales/rockylinux.md) | Rocky Linux 9 | `livecd-creator`, `mkksiso`, chroot | Kickstart y manipulación de ISO oficial |
 
 Cada guía incluye:
 - Requisitos previos.
